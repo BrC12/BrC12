@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrC12
-- 👀 I’m interested in nft development
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in learning in how to create nft
+- 🌱 I’m currently learning coding(newbie looking for support) 
 - 💞️ I’m looking to collaborate on developing nft
 - 📫 How to reach me insta @brching
 
